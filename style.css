@@ -1,0 +1,19 @@
+h1{ 
+
+color: red;
+text-align: center;
+
+}
+div{
+background-color: purple;
+
+}
+body{ border: 0rem;}
+.card{ width: 500px;
+background-color: blue;
+text-align: center;
+border-top: 1px dashed red;}
+#dish-name{ color: white;}
+
+
+
